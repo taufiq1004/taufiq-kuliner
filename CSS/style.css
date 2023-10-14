@@ -153,9 +153,11 @@ footer{
 
 .berita ul li a{
 	color:black;
+	display:block;
 	margin-bottom:10px;
 	text-decoration:none;
 	border-bottom:3px solid grey;
+	padding:3px;
 }
 
 .berita ul li a:hover{
